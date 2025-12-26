@@ -1,0 +1,50 @@
+cff-version: 1.2.0
+title: "A phylogenomic and morphometric reassessment of Ovulidae highlights host-driven shell shape evolution"
+type: article
+authors:
+  - family-names: Nocella
+    given-names: Elisa
+  - family-names: Fassio
+    given-names: Giulia
+  - family-names: Lemarcis
+    given-names: Thomas
+  - family-names: Zaharias
+    given-names: Paul
+  - family-names: Tamagnini
+    given-names: Davide
+  - family-names: De Leo
+    given-names: Naomi
+  - family-names: Puillandre
+    given-names: Nicolas
+  - family-names: Modica
+    given-names: Maria Vittoria
+  - family-names: Oliverio
+    given-names: Marco
+
+license: CC0-1.0
+
+preferred-citation:
+  type: article
+  title: "A phylogenomic and morphometric reassessment of Ovulidae highlights host-driven shell shape evolution"
+  authors:
+    - family-names: Nocella
+      given-names: Elisa
+    - family-names: Fassio
+      given-names: Giulia
+    - family-names: Lemarcis
+      given-names: Thomas
+    - family-names: Zaharias
+      given-names: Paul
+    - family-names: Tamagnini
+      given-names: Davide
+    - family-names: De Leo
+      given-names: Naomi
+    - family-names: Puillandre
+      given-names: Nicolas
+    - family-names: Modica
+      given-names: Maria Vittoria
+    - family-names: Oliverio
+      given-names: Marco
+  journal: Molecular Phylogenetics and Evolution
+  year: 2025
+  doi: 10.xxxx/xxxxx
